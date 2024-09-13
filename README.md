@@ -2,6 +2,11 @@
 ##  Ejercicio 1 crear dos listas ##
 La primera lista ordenada y la segunda lista desordenada
 [Listas ](https://byjosep.github.io/HTML/listas.html)
+>- crea una lista ordenada
+>
+>- crea una lista sin orden
+>
+>- explica la diferencia
 
 ## Ejercicio 2 Imagenes ##
 Subir diferentes imagenes con su descripcion en negrita
