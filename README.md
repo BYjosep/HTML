@@ -1,11 +1,11 @@
 # HTML #
 ##  Ejercicio 1 crear dos listas ##
 La primera lista ordenada y la segunda lista desordenada
-[Listas ]https://byjosep.github.io/HTML/listas.html
+[Listas ](https://byjosep.github.io/HTML/listas.html)
 
 ## Ejercicio 2 Imagenes ##
 Subir diferentes imagenes con su descripcion en negrita
-[Imagenes]https://byjosep.github.io/HTML/imagenes.html "Imagenes"
+[Imagenes](https://byjosep.github.io/HTML/imagenes.html)
 
 >- Poner título
 >
