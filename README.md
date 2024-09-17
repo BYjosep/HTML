@@ -51,7 +51,8 @@ Subir diferentes imagenes con su descripcion en negrita
 >2.  Dentro de la página anterior pon una imagen que al pincharle te lleve a una web externa
 
 
-## Ejercicio 4 Tablas ##
+## Ejercicio 4 Tabla ##
+[Tabla](/HTML/tablas.html)
 >Crea un titulo centrado donde ponga HORARIO
 >Crea una tabla con el horario de tus clases
 >Añade un comentario que solo se pueda ver mirando el código pero que no verán los usuarios, que diga "este es el horario de 2024/25"
