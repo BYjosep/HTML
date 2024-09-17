@@ -35,6 +35,26 @@ Subir diferentes imagenes con su descripcion en negrita
 >- debajo poner una explicación en un párrafo indicando la diferencia entre una imagen desde una url externa a nuestra página y de tenerla >alojada en nuestra página
 
 ## Ejercicio 3 Enlaces ##
-Este ejercicio aun no esta disponible
+>Los enlaces en una web te llevan a:
+>- otras partes de la misma página
+>
+>- otras páginas de tu propia web
+>
+>- otras páginas de internet
+>
+>
+>1. Crea una web llamada enlaces.html que tenga una lista:
+>- ver listas
+>
+>- ver imagenes
+>
+>2.  Dentro de la página anterior pon una imagen que al pincharle te lleve a una web externa
+
+
 ## Ejercicio 4 Tablas ##
-Este ejercicio aun no esta disponible
+>Crea un titulo centrado donde ponga HORARIO
+>Crea una tabla con el horario de tus clases
+>Añade un comentario que solo se pueda ver mirando el código pero que no verán los usuarios, que diga "este es el horario de 2024/25"
+>
+>
+>Sube la url, se debe llamar horario.html
