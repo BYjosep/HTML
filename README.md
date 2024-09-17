@@ -45,7 +45,6 @@ Subir diferentes imagenes con su descripcion en negrita
 >
 >1. Crea una web llamada enlaces.html que tenga una lista:
 >- ver listas
->
 >- ver imagenes
 >
 >2.  Dentro de la página anterior pon una imagen que al pincharle te lleve a una web externa
