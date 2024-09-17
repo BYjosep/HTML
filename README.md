@@ -13,7 +13,7 @@
 
 ##  Ejercicio 1 crear dos listas ##
 La primera lista ordenada y la segunda lista desordenada
-[Listas ](https://byjosep.github.io/HTML/listas.html)
+[Listas ](/listas.html)
 >- crea una lista ordenada
 >
 >- crea una lista sin orden
@@ -22,7 +22,7 @@ La primera lista ordenada y la segunda lista desordenada
 
 ## Ejercicio 2 Imagenes ##
 Subir diferentes imagenes con su descripcion en negrita
-[Imagenes](https://byjosep.github.io/HTML/imagenes.html)
+[Imagenes](/imagenes.html)
 
 >- Poner título
 >
@@ -35,6 +35,7 @@ Subir diferentes imagenes con su descripcion en negrita
 >- debajo poner una explicación en un párrafo indicando la diferencia entre una imagen desde una url externa a nuestra página y de tenerla >alojada en nuestra página
 
 ## Ejercicio 3 Enlaces ##
+[Enlaces](/enlaces.html)
 >Los enlaces en una web te llevan a:
 >- otras partes de la misma página
 >
