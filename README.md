@@ -13,7 +13,7 @@
 
 ##  Ejercicio 1 crear dos listas ##
 La primera lista ordenada y la segunda lista desordenada
-[Listas ](/listas.html)
+[Listas ](/HTML/listas.html)
 >- crea una lista ordenada
 >
 >- crea una lista sin orden
@@ -22,7 +22,7 @@ La primera lista ordenada y la segunda lista desordenada
 
 ## Ejercicio 2 Imagenes ##
 Subir diferentes imagenes con su descripcion en negrita
-[Imagenes](/imagenes.html)
+[Imagenes](/HTML/imagenes.html)
 
 >- Poner título
 >
@@ -35,7 +35,7 @@ Subir diferentes imagenes con su descripcion en negrita
 >- debajo poner una explicación en un párrafo indicando la diferencia entre una imagen desde una url externa a nuestra página y de tenerla >alojada en nuestra página
 
 ## Ejercicio 3 Enlaces ##
-[Enlaces](/enlaces.html)
+[Enlaces](/HTML/enlaces.html)
 >Los enlaces en una web te llevan a:
 >- otras partes de la misma página
 >
