@@ -1,5 +1,5 @@
 <title> HTML </title>
-
+<body bgcolor="#000000">
 # Indice #
 
 [Ejercicio 1](#ejercicio-1-crear-dos-listas)
