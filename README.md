@@ -9,8 +9,11 @@
 >[Ejercicio 3](#ejercicio-3-enlaces)
 
 >[Ejercicio 4](#ejercicio-4-tablas)
+
 >[Tarea extra](#tarea-extra)
+
 [Tema 2](#tema-2-css)
+
 [Tema 3](#tema-3-jscript)
 
 ## Tema 1 HTML ##
