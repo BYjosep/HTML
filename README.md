@@ -1,4 +1,3 @@
-# HTML #
 
 # Indice #
 [Tema 1](#tema-1-html)
