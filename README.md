@@ -1,18 +1,20 @@
 <title> HTML </title>
 
 # Indice #
+[Tema 1](#tema-1-html)
+>[Ejercicio 1](#ejercicio-1-crear-dos-listas)
 
-[Ejercicio 1](#ejercicio-1-crear-dos-listas)
+>[Ejercicio 2](#ejercicio-2-imagenes)
 
-[Ejercicio 2](#ejercicio-2-imagenes)
+>[Ejercicio 3](#ejercicio-3-enlaces)
 
-[Ejercicio 3](#ejercicio-3-enlaces)
+>[Ejercicio 4](#ejercicio-4-tablas)
+>[Tarea extra](#tarea-extra)
+[Tema 2](#tema-2-css)
+[Tema 3](#tema-3-jscript)
 
-[Ejercicio 4](#ejercicio-4-tablas)
-[Tarea extra](#tarea-extra)
-
-
-##  Ejercicio 1 crear dos listas ##
+## Tema 1 HTML ##
+###  Ejercicio 1 crear dos listas ###
 La primera lista ordenada y la segunda lista desordenada
 [Listas ](/HTML/listas.html)
 >- crea una lista ordenada
@@ -21,7 +23,7 @@ La primera lista ordenada y la segunda lista desordenada
 >
 >- explica la diferencia
 
-## Ejercicio 2 Imagenes ##
+### Ejercicio 2 Imagenes ###
 Subir diferentes imagenes con su descripcion en negrita
 [Imagenes](/HTML/imagenes.html)
 
@@ -35,7 +37,7 @@ Subir diferentes imagenes con su descripcion en negrita
 >
 >- debajo poner una explicación en un párrafo indicando la diferencia entre una imagen desde una url externa a nuestra página y de tenerla >alojada en nuestra página
 
-## Ejercicio 3 Enlaces ##
+### Ejercicio 3 Enlaces ###
 [Enlaces](/HTML/enlaces.html)
 >Los enlaces en una web te llevan a:
 >- otras partes de la misma página
@@ -52,7 +54,7 @@ Subir diferentes imagenes con su descripcion en negrita
 >2.  Dentro de la página anterior pon una imagen que al pincharle te lleve a una web externa
 
 
-## Ejercicio 4 Tabla ##
+### Ejercicio 4 Tabla ###
 [Tabla](/HTML/tablas.html)
 >Crea un titulo centrado donde ponga HORARIO
 >Crea una tabla con el horario de tus clases
@@ -62,7 +64,11 @@ Subir diferentes imagenes con su descripcion en negrita
 >Sube la url, se debe llamar horario.html
 
 
-## Tarea extra ##
+### Tarea extra ###
 >Crea una web tarea_extra.html con todas las etiquetas <> vistas hasta ahora.
 >
 >Para subir nota
+
+## Tema 2 CSS ##
+
+## Tema 3 JScript ##
